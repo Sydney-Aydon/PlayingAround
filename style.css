@@ -1,0 +1,11 @@
+.wrapper{
+    width:70%;
+    margin:0 auto;
+    border:5px solid black;
+}
+header{
+    height:100px;
+}
+body{
+    background-color:rgb(112, 112, 112);
+}
