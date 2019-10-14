@@ -1,9 +1,16 @@
 .wrapper{
+    height:100%;
     margin:0 auto;
     background-color: darkgrey;
     box-sizing: border-box;
-    width: 100%;
+    width:80%;
 }
 header{
     height:100px;
+}
+html, body{
+    height:100%;
+}
+body{
+    background-color: lightblue;
 }
